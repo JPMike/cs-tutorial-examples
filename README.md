@@ -6,4 +6,6 @@ I believe that one can learn how to program by reading fine-design examples and 
 ---
 For now, the repo has examples of the following fields:
 * HTML
+* CSS
+* JavaScript
 
